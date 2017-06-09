@@ -143,7 +143,7 @@ class TicTacToe extends JFrame implements ActionListener{
 			dispose();
 			new TicTacToe();
 		}
-		
+
 	}
 	boolean visited(int a[][])
 	{
